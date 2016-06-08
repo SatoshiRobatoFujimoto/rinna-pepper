@@ -60,3 +60,15 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# added local ignore
+/temp/
+/data/
+/tests/
+/.settings
+/.project
+/.buildpath
+.DS_Store
+.svn
+.git
+
